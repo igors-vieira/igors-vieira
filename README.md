@@ -56,5 +56,6 @@ Buscando aprimorar minhas habilidades técnicas e soft-skills.
 
 <div> 
   <a href="https://www.instagram.com/igors_v/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/igorsvieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/igorsvieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <img src="https://img.shields.io/badge/igorsv2240@gmail.com-2e2e2e?style=for-the-badge&logo=gmail&logoColor=white&label=gmail&labelColor=D14836">
 </div>
