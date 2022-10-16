@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;Sobre </h3>
 
 - 🤔 &nbsp; Em busca de formação em tecnologia, com foco em desenvolvimento web.
-- 🎓 &nbsp; Estudante da Trybe da classe 21
+- 🎓 &nbsp; Estudante da Trybe da Turma 21
 - 🌱 &nbsp; Aprendendo a agregar valor para o meu trabalho.
 - ✍️ &nbsp; 
 Buscando aprimorar minhas habilidades técnicas e soft-skills.
