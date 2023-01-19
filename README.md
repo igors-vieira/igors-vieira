@@ -8,11 +8,11 @@
 - ✍️ &nbsp; 
 Buscando aprimorar minhas habilidades técnicas e soft-skills.
 <br>
-<div>
+<!-- <div>
   <a href="https://github.com/igors-vieira">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igors-vieira&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igors-vieira&layout=compact&langs_count=7&theme=merko"/>
-</div>
+</div> -->
 
 ### 🛠️ Languages and Tools:
 
